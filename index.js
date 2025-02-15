@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="Your Url";
+var hostURL="https://track-location-old.onrender.com/";
 //TOGGLE for Shorters
 var use1pt=false;
 
